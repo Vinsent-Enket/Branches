@@ -1,6 +1,6 @@
 def upper(word=''):
-    """
-    Увеличивает все буквы
-    """
+    """тут должно быть описание"""
     return word.upper()
 
+def to_tittle(word=''):
+    return word.title()
